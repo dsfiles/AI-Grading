@@ -1,0 +1,21 @@
+## HOMEWORK INSTRUCTIONS
+
+
+## GRADING RUBRIC
+
+
+## SAMPLE SOLUTION
+
+
+## STUDENT SUBMISSION TO GRADE
+
+
+## GRADING REQUIREMENTS
+- Follow the grading rubric and point allocations.
+- Award partial credit when appropriate.
+- Accept alternative solutions that are correct and equivalent to the sample solution.
+- Identify errors and incorrect results, as applicable.
+- Do not deduct points for stylistic differences unless required by the instructions or rubric.
+- Provide constructive, concise, and actionable feedback.
+
+## GRADING RESULTS
